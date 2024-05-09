@@ -1,7 +1,8 @@
 name: clue_device_id
-description: "A package that manages device IDs used on Android and iOS."
-version: 0.0.2
-homepage: https://www.supremainc.com/ko/platform/suprema-clue-cloud-managed-service.asp
+description: Flutter plugin for get device id with Android and IOS, Supports Android, IOS, Android uses flutter_device_id and iOS uses platform_device_id
+version: 0.0.3
+repository: https://github.com/suprema-swkim/clue_device_id.git
+homepage: https://www.supremainc.com/ko/
 
 environment:
   sdk: '>=3.3.4 <4.0.0'

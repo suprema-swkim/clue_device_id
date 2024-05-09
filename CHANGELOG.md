@@ -3,3 +3,6 @@
 
 ## 0.0.2
 * TODO: Change folder organization.
+  
+## 0.0.3
+* TODO: pubspec.yaml update.
